@@ -20,20 +20,6 @@ Welcome to my personal music portfolio! This website showcases my work as a sing
  - **Pure CSS** for styling
  - Hosted on **Vercel**
 
-## 🖥️ Installation & Usage
-If you’d like to run this project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/khanmcodes/Khanm-Music-Portfolio.git
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
 ## 📸 Screenshots
 ![Screenshot 2025-02-08 222724](https://github.com/user-attachments/assets/98ccfc5e-bed3-4e4b-ae38-3912ee7eb381)
 ![Screenshot 2025-02-08 222736](https://github.com/user-attachments/assets/a91c2636-c0c9-4286-9be2-088d536a0182)
